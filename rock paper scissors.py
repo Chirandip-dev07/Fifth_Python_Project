@@ -52,7 +52,7 @@ for i in range(turns):
             print("IT'S A TIE")
 
     else:
-        print("WRONG CHOICE ENTERED")
+        print("WRONG CHOICE ENTERED :(")
 
 print("END OF GAME :) ")
 print("CALCULATING RESULTS...............")
